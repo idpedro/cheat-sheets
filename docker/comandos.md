@@ -4,7 +4,7 @@
 #### Verifica se a Containers ativos
 
 ```bash
-sudo docker ps 
+docker ps 
 ```
 
 #### Lista imagens baixadas 
